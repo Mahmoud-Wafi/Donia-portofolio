@@ -1,7 +1,7 @@
 import { Header } from "@/components/Header";
 import { Hero } from "@/components/Hero";
 import { About } from "@/components/About";
-import { Street } from "@/components/Street";
+import { Projects } from "@/components/Projects";
 import { Services } from "@/components/Services";
 import { Contact } from "@/components/Contact";
 import { Footer } from "@/components/Footer";
@@ -15,7 +15,7 @@ export default function Page() {
       <main id="main">
         <Hero />
         <About />
-        <Street />
+        <Projects />
         <Services />
         <Contact />
       </main>

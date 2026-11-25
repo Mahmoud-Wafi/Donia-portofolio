@@ -139,10 +139,7 @@ const en = {
   },
   work: {
     title: "Projects I've built",
-    lead: "Seven websites for seven kinds of business. Walk along the street and step into any shop to open its live site.",
-    prev: "Previous shops",
-    next: "Next shops",
-    region: "Projects, scroll sideways",
+    lead: "Seven websites for seven kinds of business. Hover a preview to scroll through the page, or tap a card to open the live site.",
     open: "Open live site",
     openIn: "Opens in a new tab",
   },
@@ -261,10 +258,7 @@ const ar: Dict = {
   },
   work: {
     title: "مشاريع نفّذتها",
-    lead: "سبعة مواقع لسبعة أنواع من الأعمال. تجوّل في الشارع وادخل أي محل لتفتح موقعه الحي.",
-    prev: "المحلات السابقة",
-    next: "المحلات التالية",
-    region: "المشاريع، مرّر جانبيًا",
+    lead: "سبعة مواقع لسبعة أنواع من الأعمال. مرّر المؤشر على المعاينة لتتصفح الصفحة، أو اضغط على البطاقة لفتح الموقع الحي.",
     open: "افتح الموقع",
     openIn: "يفتح في تبويب جديد",
   },
